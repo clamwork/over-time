@@ -36,16 +36,76 @@
     
     
   <url>
-    <loc>http://over-time.com.cn/2017/03/07/JavaScript-modular-programming2JSmodulardevelopmenthistory/</loc>
+    <loc>http://over-time.com.cn/2017/03/28/Mobile-terminal-debugging-method/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>javascript模块化编程（二）：js模块化发展史</title>
-        <pubTime>2017-03-07T15:04:40.000Z</pubTime>
+        <title>移动端调试方法</title>
+        <pubTime>2017-03-28T15:21:55.000Z</pubTime>
+        
+        <tag>调试</tag>
+         
+         
+           
+             
+              <breadCrumb title="日积月累" url="http://over-time.com.cn/categories/%E6%97%A5%E7%A7%AF%E6%9C%88%E7%B4%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2016/09/17/Hexo-advanced/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo高级进阶</title>
+        <pubTime>2016-09-16T17:14:19.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2016/09/17/Hexo-insert-music-share-comment-tab-search/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo附件插入音乐、分享、评论、标签页、搜索</title>
+        <pubTime>2016-09-16T17:01:48.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/11/JavaScript-Design-Pattern/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>javascript设计模式（一）</title>
+        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
         
         <tag>js</tag>
          
-        <tag>js模块化</tag>
+        <tag>js设计模式</tag>
          
          
            
@@ -80,52 +140,12 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2017/02/26/Hexo-Understand-the-principles-of-githubPages-hexoblog/</loc>
+    <loc>http://over-time.com.cn/2017/03/24/JavaScript-Design-Pattern2modular-mode/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>了解githubPages+hexo搭建博客的原理</title>
-        <pubTime>2017-02-26T06:30:15.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2016/09/17/Hexo-advanced/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>hexo高级进阶</title>
-        <pubTime>2016-09-16T17:14:19.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/26/JavaScript-Design-Pattern4factory-mode/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript设计模式（四）：工厂模式</title>
-        <pubTime>2017-03-26T14:01:41.000Z</pubTime>
+        <title>javascript设计模式（二）：模块化模式</title>
+        <pubTime>2017-03-24T15:09:08.000Z</pubTime>
         
         <tag>js</tag>
          
@@ -164,56 +184,56 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2017/03/24/JavaScript-Design-Pattern2modular-mode/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript设计模式（二）：模块化模式</title>
-        <pubTime>2017-03-24T15:09:08.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>js设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/11/JavaScript-Design-Pattern/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript设计模式（一）</title>
-        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>js设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://over-time.com.cn/2017/03/08/Javascript-modular-programming3requirejs-use/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
         <title>Javascript模块化编程（三）：require.js的用法</title>
         <pubTime>2017-03-08T15:11:42.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+        <tag>js模块化</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/26/JavaScript-Design-Pattern4factory-mode/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>javascript设计模式（四）：工厂模式</title>
+        <pubTime>2017-03-26T14:01:41.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+        <tag>js设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/07/JavaScript-modular-programming2JSmodulardevelopmenthistory/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>javascript模块化编程（二）：js模块化发展史</title>
+        <pubTime>2017-03-07T15:04:40.000Z</pubTime>
         
         <tag>js</tag>
          
@@ -252,54 +272,12 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2017/03/28/Mobile-terminal-debugging-method/</loc>
+    <loc>http://over-time.com.cn/2017/03/15/GitCommands/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>移动端调试方法</title>
-        <pubTime>2017-03-28T15:21:55.000Z</pubTime>
-        
-        <tag>调试</tag>
-         
-         
-           
-             
-              <breadCrumb title="日积月累" url="http://over-time.com.cn/categories/%E6%97%A5%E7%A7%AF%E6%9C%88%E7%B4%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/11/ErrorReportingInGitUse/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git使用中的报错情况</title>
-        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-        <tag>实战经验</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/02/25/Upload-project-to-GitHub/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>将项目上传至github</title>
-        <pubTime>2017-02-25T09:35:35.000Z</pubTime>
+        <title>Git常用命令and完成一个小工作流</title>
+        <pubTime>2017-03-15T14:32:30.000Z</pubTime>
         
         <tag>git</tag>
          
@@ -334,12 +312,12 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2017/02/24/Use-webstorm-to-connect-GitHub/</loc>
+    <loc>http://over-time.com.cn/2017/02/25/Upload-project-to-GitHub/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>使用webstorm连接github</title>
-        <pubTime>2017-02-24T02:40:20.000Z</pubTime>
+        <title>将项目上传至github</title>
+        <pubTime>2017-02-25T09:35:35.000Z</pubTime>
         
         <tag>git</tag>
          
@@ -374,6 +352,26 @@
 
     
   <url>
+    <loc>http://over-time.com.cn/2017/02/24/Use-webstorm-to-connect-GitHub/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>使用webstorm连接github</title>
+        <pubTime>2017-02-24T02:40:20.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://over-time.com.cn/2016/09/16/Use-Gitpagehexo-to-develop-their-own-blog/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
@@ -394,14 +392,16 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2017/03/15/GitCommands/</loc>
+    <loc>http://over-time.com.cn/2017/03/11/ErrorReportingInGitUse/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>Git常用命令and完成一个小工作流</title>
-        <pubTime>2017-03-15T14:32:30.000Z</pubTime>
+        <title>Git使用中的报错情况</title>
+        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
         
         <tag>git</tag>
+         
+        <tag>实战经验</tag>
          
          
            
@@ -438,12 +438,12 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2016/09/17/Hexo-insert-music-share-comment-tab-search/</loc>
+    <loc>http://over-time.com.cn/2017/02/26/Hexo-Understand-the-principles-of-githubPages-hexoblog/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>hexo附件插入音乐、分享、评论、标签页、搜索</title>
-        <pubTime>2016-09-16T17:01:48.000Z</pubTime>
+        <title>了解githubPages+hexo搭建博客的原理</title>
+        <pubTime>2017-02-26T06:30:15.000Z</pubTime>
         
         <tag>hexo</tag>
          
