@@ -4,15 +4,15 @@
 
 # Site
 title: 一缕清风自西来
-subtitle:
+subtitle: 胆小认生，不易相处
 description:
-author: 海上小懒猫
-language: Chinese
+author: Chengw
+language: zh-Hans
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://clamwork.github.io/over-time
+url: http://over-time.com.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -25,7 +25,8 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
+skip_render: 
+commonweal: 404.html
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -90,3 +91,9 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
+
+baidu_url_submit:
+ count:3## 比如3，代表提交最新的三个链接
+ host:over-time.com.cn## 在百度站长平台中注册的域名
+ #token:your_token## 请注意这是您的秘钥， 请不要发布在公众仓库里!
+ #path:baidu_urls.txt## 文本文档的地址， 新链接会保存在此文本文档里
