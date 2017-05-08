@@ -36,19 +36,19 @@
     
     
   <url>
-    <loc>http://over-time.com.cn/2017/03/28/Mobile-terminal-debugging-method/</loc>
+    <loc>http://over-time.com.cn/2017/03/01/React-first/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>移动端调试方法</title>
-        <pubTime>2017-03-28T15:21:55.000Z</pubTime>
+        <title>react（一）：初识react</title>
+        <pubTime>2017-03-01T14:01:40.000Z</pubTime>
         
-        <tag>调试</tag>
+        <tag>react</tag>
          
          
            
              
-              <breadCrumb title="日积月累" url="http://over-time.com.cn/categories/%E6%97%A5%E7%A7%AF%E6%9C%88%E7%B4%AF/"/>
+              <breadCrumb title="react" url="http://over-time.com.cn/categories/react/"/>
           
         </display>
     </data>
@@ -56,12 +56,34 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2016/09/17/Hexo-insert-music-share-comment-tab-search/</loc>
+    <loc>http://over-time.com.cn/2017/03/11/JavaScript-Design-Pattern/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>hexo附件插入音乐、分享、评论、标签页、搜索</title>
-        <pubTime>2016-09-16T17:01:48.000Z</pubTime>
+        <title>javascript设计模式（一）</title>
+        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+        <tag>js设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2016/09/17/Hexo-advanced/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>hexo高级进阶</title>
+        <pubTime>2016-09-16T17:14:19.000Z</pubTime>
         
         <tag>hexo</tag>
          
@@ -76,12 +98,12 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2016/09/17/Hexo-advanced/</loc>
+    <loc>http://over-time.com.cn/2016/09/17/Hexo-insert-music-share-comment-tab-search/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
         <display>
-        <title>hexo高级进阶</title>
-        <pubTime>2016-09-16T17:14:19.000Z</pubTime>
+        <title>hexo附件插入音乐、分享、评论、标签页、搜索</title>
+        <pubTime>2016-09-16T17:01:48.000Z</pubTime>
         
         <tag>hexo</tag>
          
@@ -111,28 +133,6 @@
            
              
               <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/11/JavaScript-Design-Pattern/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>javascript设计模式（一）</title>
-        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>js设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
           
         </display>
     </data>
@@ -172,28 +172,6 @@
         <tag>js</tag>
          
         <tag>js设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/07/Javascript-modular-programming1module-writing/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Javascript模块化编程（一）：模块的写法</title>
-        <pubTime>2017-03-07T14:40:16.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>js模块化</tag>
          
          
            
@@ -250,6 +228,70 @@
 
     
   <url>
+    <loc>http://over-time.com.cn/2017/03/07/Javascript-modular-programming1module-writing/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Javascript模块化编程（一）：模块的写法</title>
+        <pubTime>2017-03-07T14:40:16.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+        <tag>js模块化</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/28/Mobile-terminal-debugging-method/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>移动端调试方法</title>
+        <pubTime>2017-03-28T15:21:55.000Z</pubTime>
+        
+        <tag>调试</tag>
+         
+         
+           
+             
+              <breadCrumb title="日积月累" url="http://over-time.com.cn/categories/%E6%97%A5%E7%A7%AF%E6%9C%88%E7%B4%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/11/ErrorReportingInGitUse/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git使用中的报错情况</title>
+        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>实战经验</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://over-time.com.cn/2017/03/08/Javascript-modular-programming3requirejs-use/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
@@ -265,6 +307,46 @@
            
              
               <breadCrumb title="js" url="http://over-time.com.cn/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2017/03/02/React2understanding-react-with-examples/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>react（二）：用实例认识react</title>
+        <pubTime>2017-03-02T13:34:44.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+             
+              <breadCrumb title="react" url="http://over-time.com.cn/categories/react/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://over-time.com.cn/2016/09/16/Use-Gitpagehexo-to-develop-their-own-blog/</loc>
+    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>利用Gitpage+hexo开发自己的博客</title>
+        <pubTime>2016-09-15T17:07:17.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
           
         </display>
     </data>
@@ -289,46 +371,6 @@
            
              
               <breadCrumb title="面试题库" url="http://over-time.com.cn/categories/%E9%9D%A2%E8%AF%95%E9%A2%98%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/01/React-first/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>react（一）：初识react</title>
-        <pubTime>2017-03-01T14:01:40.000Z</pubTime>
-        
-        <tag>react</tag>
-         
-         
-           
-             
-              <breadCrumb title="react" url="http://over-time.com.cn/categories/react/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/02/React2understanding-react-with-examples/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>react（二）：用实例认识react</title>
-        <pubTime>2017-03-02T13:34:44.000Z</pubTime>
-        
-        <tag>react</tag>
-         
-         
-           
-             
-              <breadCrumb title="react" url="http://over-time.com.cn/categories/react/"/>
           
         </display>
     </data>
@@ -376,48 +418,6 @@
 
     
   <url>
-    <loc>http://over-time.com.cn/2016/09/16/Use-Gitpagehexo-to-develop-their-own-blog/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>利用Gitpage+hexo开发自己的博客</title>
-        <pubTime>2016-09-15T17:07:17.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://over-time.com.cn/2017/03/11/ErrorReportingInGitUse/</loc>
-    <lastmod>2017-05-04T00:22:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git使用中的报错情况</title>
-        <pubTime>2017-03-11T15:54:11.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-        <tag>实战经验</tag>
-         
-         
-           
-             
-              <breadCrumb title="git" url="http://over-time.com.cn/categories/git/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://over-time.com.cn/2017/03/15/GitCommands/</loc>
     <lastmod>2017-05-04T00:22:24.000Z</lastmod>
     <data>
@@ -436,6 +436,10 @@
     </data>
     </url>
 
+    
+    
+    
+    
     
     
   <url>
@@ -457,9 +461,5 @@
     </data>
     </url>
 
-    
-    
-    
-    
     
 </urlset>
